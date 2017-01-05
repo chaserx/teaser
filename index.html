@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Teaser</title>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"
+          integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+          crossorigin="anonymous"></script>
+  <script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
+</head>
+<body>
+  <div>
+    <div class="question"></div>
+  </div>
+
+  <script>
+    const questionDiv = document.querySelector('.question');
+    const teasers = [];
+    let randomTeaser;
+
+    function getTeasers() {
+      return new Promise((resolve, reject) => {
+        $.getJSON('./teasers.json')
+          .done((data) => {
+            resolve(teasers.push(...data));
+          })
+          .fail(() => {
+            reject(console.log('Could not get JSON data'));
+          });
+      });
+    }
+
+    function init(){
+      $.when(getTeasers())
+        .done(() => {
+          randomTeaser = teasers[Math.floor(Math.random()*teasers.length)];
+          questionDiv.innerHTML = randomTeaser.question;
+        })
+        .fail(() => {
+          console.log( 'one or more requests failed.' );
+        });
+    }
+
+    init();
+  </script>
+</body>
+</html>
