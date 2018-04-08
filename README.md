@@ -1,6 +1,6 @@
 # Teaser
 
-Trying to make my daughter think that I'm a cool Dad. ¯\_(ツ)\_/¯
+Trying to make my daughter think that I'm a cool Dad. `¯\_(ツ)\_/¯`
 
 ## Attributions
 
