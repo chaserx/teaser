@@ -1,47 +1,257 @@
 [
-  {"question": "I'm tall when I'm young and I'm short when I'm old. What am I?", "answer": "A candle"},
-  {"question": "In a one-story pink house, there was a pink person, a pink cat, a pink fish, a pink computer, a pink chair, a pink table, a pink telephone, a pink shower– everything was pink! What color were the stairs?", "answer": "There weren't any stairs, it was a one storey house"},
-  {"question": "What has hands but can not clap?", "answer": "A clock"},
-  {"question": "A house has 4 walls. All of the walls are facing south, and a bear is circling the house. What color is the bear?", "answer": "The house is on the north pole, so the bear is white"},
-  {"question": "What is at the end of a rainbow?", "answer": "The letter W"},
-  {"question": "What starts with the letter 't', is filled with 't' and ends in 't'?", "answer": "A teapot"},
-  {"question": "A girl is sitting in a house at night that has no lights on at all. There is no lamp, no candle, nothing. Yet she is reading. How?", "answer": "The woman is blind and is reading braille"},
-  {"question": "You walk into a room with a match, a karosene lamp, a candle, and a fireplace. Which do you light first?", "answer": "The match"},
-  {"question": "What gets wetter and wetter the more it dries?", "answer": "A Towel"},
-  {"question": "You draw a line. Without touching it, how do you make the line longer?", "answer": "You draw a shorter line next to it, and it becomes the longer line"},
-  {"question": "Which weighs more, a pound of feathers or a pound of bricks?", "answer": "Neither, they both weigh one pound"},
-  {"question": "How many months have 28 days?", "answer": "All 12 months"},
-  {"question": "Name four days of the week that start with the letter 't'?", "answer": "Tuesday, Thursday, today, and tomorrow"},
-  {"question": "A train leaves from Halifax, Nova Scotia heading towards Vancouver, British Columbia at 120 km/h. Three hours later, a train leaves Vancouver heading towards Halifax at 180 km/h. Assume there's exactly 6000 kilometers between Vancouver and Halifax. When they meet, which train is closer to Halifax?", "answer": "Both trains would be at the same spot when they meet therefore they are both equally close to Halifax"},
-  {"question": "What goes around and around the wood but never goes into the wood?", "answer": "The bark on a tree"},
-  {"question": "Two mothers and two daughters went out to eat, everyone ate one burger, yet only three burgers were eaten in all. How is this possible?", "answer": "They were a grandmother, mother and daughter"},
-  {"question": "A man was outside taking a walk, when it started to rain. The man didn't have an umbrella and he wasn't wearing a hat. His clothes got soaked, yet not a single hair on his head got wet. How could this happen?", "answer": "The man was bald"},
-  {"question": "A cowboy rides into town on Friday, stays for three days, then leaves on Friday. How did he do it?", "answer": "His horse's name was Friday"},
-  {"question": "You walk across a bridge and you see a boat full of people yet there isn't a single person on board. How is that possible?", "answer": "All the people on the boat are married"},
-  {"question": "A boy was rushed to the hospital emergency room. The ER doctor saw the boy and said, 'I cannot operate on this boy. He is my son.' But the doctor was not the boy's father. How could that be?", "answer": "The doctor was his mom"},
-  {"question": "What can run but can't walk?", "answer": "A drop of water"},
-  {"question": "How far can a dog run into the woods?", "answer": "The dog can run into the woods only to the half of the wood – than it would run out of the woods"},
-  {"question": "If there are 3 apples and you take away 2, how many do you have?", "answer": "If you take 2 apples, than you have of course 2"},
-  {"question": "Beth's mother has three daughters. One is called Lara, the other one is Sara. What is the name of the third daughter?", "answer": "Beth"},
-  {"question": "You have a 5 gallon bucket and a 3 gallon bucket with as much water as you need, but no other measuring devices. Fill the 5 gallon bucket with exactly 4 gallons of water.", "answer": "Fill the 5 gallon bucket all the way up. Pour it into the 3 gallon bucket until it is full. Empty the 3 gallon bucket. Pour the remaining 2 gallons into the 3 gallon bucket. Fill the 5 gallon bucket all the way up. Finish filling the 3 gallon bucket"},
-  {"question": "What's full of holes but still holds water?", "answer": "A sponge"},
-  {"question": "If an electric train is going east at 60 miles an hour and there is a strong westerly wind, which way does the smoke from the train drift?", "answer": "There is no smoke coming from electric trains"},
-  {"question": "Say Racecar backwards.", "answer": "‘Racecar backwards'"},
-  {"question": "What do the numbers 11, 69, and 88 all have in common?", "answer": "The read the same right side up and upside down"},
-  {"question": "How can you throw a ball as hard as you can, to only have it come back to you, even if it doesn't bounce off anything?", "answer": "Throw the ball straight up in the air"},
-  {"question": "My name is Ruger, I live on a farm. There are four other dogs on the farm with me. Their names are Snowy, Flash, Speedy and Brownie. What do you think the fifth dog's name is?", "answer": "Ruger"},
-  {"question": "I am an odd number. Take away one letter and I become even. What number am I?", "answer": "Seven (take away the ‘s' and it becomes ‘even')"},
-  {"question": "What word looks the same backwards and upside down?", "answer": "SWIMS"},
-  {"question": "A boy fell off a 30 meter ladder but did not get hurt. Why not?", "answer": "He fell off the bottom step"},
-  {"question": "Using only addition, how do you add eight 8's and get the number 1000?", "answer": "888 + 88 + 8 + 8 + 8 = 1000"},
-  {"question": "How do dog catchers get paid?", "answer": "By the pound"},
-  {"question": "What never asks questions but is often answered?", "answer": "A doorbell"},
-  {"question": "What belongs to you but other people use it more than you?", "answer": "Your name"},
-  {"question": "I have a large money box, 48 centemeters square and 42 centemeters tall. Roughly how many coins can I place in my empty money box?", "answer": "Just one, after which it will no longer be empty"},
-  {"question": "What does this mean? I RIGHT I", "answer": "Right between the eyes"},
-  {"question": "What 5-letter word becomes shorter when you add two letters to it?", "answer": "Short"},
-  {"question": "Imagine you're in a room that is filling with water. There are no windows or doors. How do you get out?", "answer": "Stop imagining"},
-  {"question": "The more you take, the more you leave behind. What are they?", "answer": "Footprints"},
-  {"question": "What two keys can't open any door?", "answer": "A monkey and a donkey"},
-  {"question": "What invention lets you look right through a wall? ", "answer": "A window"}
+  {
+    "id": 1,
+    "question":
+      "I'm tall when I'm young and I'm short when I'm old. What am I?",
+    "answer": "A candle"
+  },
+  {
+    "id": 2,
+    "question":
+      "In a one-story pink house, there was a pink person, a pink cat, a pink fish, a pink computer, a pink chair, a pink table, a pink telephone, a pink shower– everything was pink! What color were the stairs?",
+    "answer": "There weren't any stairs, it was a one storey house"
+  },
+  {
+    "id": 3,
+    "question": "What has hands but can not clap?",
+    "answer": "A clock"
+  },
+  {
+    "id": 4,
+    "question":
+      "A house has 4 walls. All of the walls are facing south, and a bear is circling the house. What color is the bear?",
+    "answer": "The house is on the north pole, so the bear is white"
+  },
+  {
+    "id": 5,
+    "question": "What is at the end of a rainbow?",
+    "answer": "The letter W"
+  },
+  {
+    "id": 6,
+    "question":
+      "What starts with the letter 't', is filled with 't' and ends in 't'?",
+    "answer": "A teapot"
+  },
+  {
+    "id": 7,
+    "question":
+      "A girl is sitting in a house at night that has no lights on at all. There is no lamp, no candle, nothing. Yet she is reading. How?",
+    "answer": "The woman is blind and is reading braille"
+  },
+  {
+    "id": 8,
+    "question":
+      "You walk into a room with a match, a karosene lamp, a candle, and a fireplace. Which do you light first?",
+    "answer": "The match"
+  },
+  {
+    "id": 9,
+    "question": "What gets wetter and wetter the more it dries?",
+    "answer": "A Towel"
+  },
+  {
+    "id": 10,
+    "question":
+      "You draw a line. Without touching it, how do you make the line longer?",
+    "answer":
+      "You draw a shorter line next to it, and it becomes the longer line"
+  },
+  {
+    "id": 11,
+    "question": "Which weighs more, a pound of feathers or a pound of bricks?",
+    "answer": "Neither, they both weigh one pound"
+  },
+  {
+    "id": 12,
+    "question": "How many months have 28 days?",
+    "answer": "All 12 months"
+  },
+  {
+    "id": 13,
+    "question": "Name four days of the week that start with the letter 't'?",
+    "answer": "Tuesday, Thursday, today, and tomorrow"
+  },
+  {
+    "id": 14,
+    "question":
+      "A train leaves from Halifax, Nova Scotia heading towards Vancouver, British Columbia at 120 km/h. Three hours later, a train leaves Vancouver heading towards Halifax at 180 km/h. Assume there's exactly 6000 kilometers between Vancouver and Halifax. When they meet, which train is closer to Halifax?",
+    "answer":
+      "Both trains would be at the same spot when they meet therefore they are both equally close to Halifax"
+  },
+  {
+    "id": 15,
+    "question":
+      "What goes around and around the wood but never goes into the wood?",
+    "answer": "The bark on a tree"
+  },
+  {
+    "id": 16,
+    "question":
+      "Two mothers and two daughters went out to eat, everyone ate one burger, yet only three burgers were eaten in all. How is this possible?",
+    "answer": "They were a grandmother, mother and daughter"
+  },
+  {
+    "id": 17,
+    "question":
+      "A man was outside taking a walk, when it started to rain. The man didn't have an umbrella and he wasn't wearing a hat. His clothes got soaked, yet not a single hair on his head got wet. How could this happen?",
+    "answer": "The man was bald"
+  },
+  {
+    "id": 18,
+    "question":
+      "A cowboy rides into town on Friday, stays for three days, then leaves on Friday. How did he do it?",
+    "answer": "His horse's name was Friday"
+  },
+  {
+    "id": 19,
+    "question":
+      "You walk across a bridge and you see a boat full of people yet there isn't a single person on board. How is that possible?",
+    "answer": "All the people on the boat are married"
+  },
+  {
+    "id": 20,
+    "question":
+      "A boy was rushed to the hospital emergency room. The ER doctor saw the boy and said, 'I cannot operate on this boy. He is my son.' But the doctor was not the boy's father. How could that be?",
+    "answer": "The doctor was his mom"
+  },
+  {
+    "id": 21,
+    "question": "What can run but can't walk?",
+    "answer": "A drop of water"
+  },
+  {
+    "id": 22,
+    "question": "How far can a dog run into the woods?",
+    "answer":
+      "The dog can run into the woods only to the half of the wood – than it would run out of the woods"
+  },
+  {
+    "id": 23,
+    "question":
+      "If there are 3 apples and you take away 2, how many do you have?",
+    "answer": "If you take 2 apples, than you have of course 2"
+  },
+  {
+    "id": 24,
+    "question":
+      "Beth's mother has three daughters. One is called Lara, the other one is Sara. What is the name of the third daughter?",
+    "answer": "Beth"
+  },
+  {
+    "id": 25,
+    "question":
+      "You have a 5 gallon bucket and a 3 gallon bucket with as much water as you need, but no other measuring devices. Fill the 5 gallon bucket with exactly 4 gallons of water.",
+    "answer":
+      "Fill the 5 gallon bucket all the way up. Pour it into the 3 gallon bucket until it is full. Empty the 3 gallon bucket. Pour the remaining 2 gallons into the 3 gallon bucket. Fill the 5 gallon bucket all the way up. Finish filling the 3 gallon bucket"
+  },
+  {
+    "id": 26,
+    "question": "What's full of holes but still holds water?",
+    "answer": "A sponge"
+  },
+  {
+    "id": 27,
+    "question":
+      "If an electric train is going east at 60 miles an hour and there is a strong westerly wind, which way does the smoke from the train drift?",
+    "answer": "There is no smoke coming from electric trains"
+  },
+  {
+    "id": 28,
+    "question": "Say Racecar backwards.",
+    "answer": "‘Racecar backwards'"
+  },
+  {
+    "id": 29,
+    "question": "What do the numbers 11, 69, and 88 all have in common?",
+    "answer": "The read the same right side up and upside down"
+  },
+  {
+    "id": 30,
+    "question":
+      "How can you throw a ball as hard as you can, to only have it come back to you, even if it doesn't bounce off anything?",
+    "answer": "Throw the ball straight up in the air"
+  },
+  {
+    "id": 31,
+    "question":
+      "My name is Ruger, I live on a farm. There are four other dogs on the farm with me. Their names are Snowy, Flash, Speedy and Brownie. What do you think the fifth dog's name is?",
+    "answer": "Ruger"
+  },
+  {
+    "id": 32,
+    "question":
+      "I am an odd number. Take away one letter and I become even. What number am I?",
+    "answer": "Seven (take away the ‘s' and it becomes ‘even')"
+  },
+  {
+    "id": 33,
+    "question": "What word looks the same backwards and upside down?",
+    "answer": "SWIMS"
+  },
+  {
+    "id": 34,
+    "question":
+      "A boy fell off a 30 meter ladder but did not get hurt. Why not?",
+    "answer": "He fell off the bottom step"
+  },
+  {
+    "id": 35,
+    "question":
+      "Using only addition, how do you add eight 8's and get the number 1000?",
+    "answer": "888 + 88 + 8 + 8 + 8 = 1000"
+  },
+  {
+    "id": 36,
+    "question": "How do dog catchers get paid?",
+    "answer": "By the pound"
+  },
+  {
+    "id": 37,
+    "question": "What never asks questions but is often answered?",
+    "answer": "A doorbell"
+  },
+  {
+    "id": 38,
+    "question": "What belongs to you but other people use it more than you?",
+    "answer": "Your name"
+  },
+  {
+    "id": 39,
+    "question":
+      "I have a large money box, 48 centemeters square and 42 centemeters tall. Roughly how many coins can I place in my empty money box?",
+    "answer": "Just one, after which it will no longer be empty"
+  },
+  {
+    "id": 40,
+    "question": "What does this mean? I RIGHT I",
+    "answer": "Right between the eyes"
+  },
+  {
+    "id": 41,
+    "question":
+      "What 5-letter word becomes shorter when you add two letters to it?",
+    "answer": "Short"
+  },
+  {
+    "id": 42,
+    "question":
+      "Imagine you're in a room that is filling with water. There are no windows or doors. How do you get out?",
+    "answer": "Stop imagining"
+  },
+  {
+    "id": 43,
+    "question": "The more you take, the more you leave behind. What are they?",
+    "answer": "Footprints"
+  },
+  {
+    "id": 44,
+    "question": "What two keys can't open any door?",
+    "answer": "A monkey and a donkey"
+  },
+  {
+    "id": 45,
+    "question": "What invention lets you look right through a wall? ",
+    "answer": "A window"
+  }
 ]
