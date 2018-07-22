@@ -34,6 +34,7 @@ const toggleAnswer = () => {
 };
 
 const nextQuestion = () => {
+  toggleAnswer();
   renderQuestion();
 };
 
